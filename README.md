@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Automated Resume Builder**  
 
 ## **📌 Project Overview**  
