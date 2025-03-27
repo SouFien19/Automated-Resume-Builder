@@ -22,7 +22,7 @@ The **Automated Resume Builder** is a web-based platform that allows users to cr
 - **bcrypt.js** (Password Hashing)  
 
 ### **Frontend**  
-- **React.js** (User Interface)  
+- **Next.js** (User Interface)  
 - **Tailwind CSS** (Modern Styling)  
 - **Axios** (API Requests)  
 
